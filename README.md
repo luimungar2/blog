@@ -1,5 +1,5 @@
 # Django-Hitcount-Tutorial
-Simple Blog App using django-hitcount package
+Simple Blog App using django-hitcount and RabbitMQ
 
 ## Get Started
 
