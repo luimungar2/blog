@@ -49,7 +49,7 @@ or even see which user has posted some content, with its IP address.
 Whenever you swap between the primer-post and segundo-post url, you should get the following output on the django running terminal: 
 ![Prueba9](https://user-images.githubusercontent.com/61665330/185767203-6b0e00fe-90d5-4681-b955-ca0449b29c9c.JPG)
 
-On the other hand, you should the a similar output on the receiver running terminal:
+On the other hand, you should get a similar output on the receiver running terminal:
 ![Prueba6](https://user-images.githubusercontent.com/61665330/185767253-ed656c6c-e9bf-4cef-90a1-6fdb53223b4c.JPG)
 
 This way, whenever an event occurs, it is registered by the RabbitMQ system, queueing the message and saving that log in the log folder.
