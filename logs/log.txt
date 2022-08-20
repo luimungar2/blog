@@ -1,0 +1,1 @@
+2022-08-20 18:36:52,406 {'object': <Post: Primer post>, 'post': <Post: Primer post>, 'view': <posts.views.PostDetailView object at 0x00000215301AD6D0>, 'hitcount': {'pk': 2, 'hit_counted': False, 'hit_message': 'Not counted: authenticated user has active hit', 'total_hits': 1}, 'popular_posts': <QuerySet [<Post: Primer post>, <Post: Segundo post>]>}
