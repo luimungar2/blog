@@ -1,4 +1,4 @@
-# Django-Hitcount-Tutorial
+# Django-Hitcount-RabbitMQ web service
 Simple Blog App using django-hitcount and RabbitMQ
 
 ## 1. Get Started (locally)
