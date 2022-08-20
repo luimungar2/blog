@@ -1,5 +1,7 @@
 Some UML Diagrams are shown as below to ilustrate the behaviour of the main classes of this project on a bottom up approach.
 
+Note: if needed, click on the image and it will be opened on a new tab, with a proper resolution to inspect every element on the diagram.
+
 ## Packages
 
 
